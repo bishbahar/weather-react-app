@@ -44,6 +44,8 @@ export default function Weather() {
           <img src={temperature.icon} alt={temperature.des} />
         </li>
       </ul>
+      <a href="https://github.com/bishbahar/weather-react-app">Source Code </a>
+      by Narges Bishbahar
     </div>
   );
 }
